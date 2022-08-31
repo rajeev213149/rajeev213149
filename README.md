@@ -1,5 +1,5 @@
-- 👋 Hi, I am Rajeev Pathania
-- 👀 I’m ian Automation Engineer and leading all the QA activities 
+- 👋 Hi, I am Rajeev Pathania. 
+- 👀 I’m an Automation Engineer and leading all the QA activities 
 - 🌱 rajeev.pathania88@outlook.com
 - 💞️ (https://www.linkedin.com/in/rajeev-pathania-a33265bb/)
 - 📫 How to reach me ...
